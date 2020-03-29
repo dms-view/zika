@@ -1,4 +1,4 @@
-## Mutational tolerance of Zika Virus Envelople from MR766 strain
+## Mutational tolerance of Zika Virus Envelope from MR766 strain
 
 [Sourisseau _et al._, 2019](https://research.fhcrc.org/content/dam/stripe/bloom/labfiles/publications/Sourisseau2019.pdf) performed deep mutational scanning on the Envelope from MR766 Zika Virus to measure the preference of each site for each amino acid under selection for viral growth in cell culture.
 Here we display those results.
