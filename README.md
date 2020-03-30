@@ -4,7 +4,7 @@
 
 ### Envelope
 
-- Mutational tolerance of the Zika Virus Envelope protein from MR766 as measured by Sourisseau _et al.,_ (2019). [See here]() for a interactive dms-view visualization. The raw data are [here](./data/Envelope/Sourisseau2019/).
+- Mutational tolerance of the Zika Virus Envelope protein from MR766 as measured by Sourisseau _et al.,_ (2019). [See here](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Fzika%2Fmaster%2Fdata%2FEnvelope%2FSourisseau2019%2FSourisseau2019_DMS.md&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Fzika%2Fmaster%2Fdata%2FEnvelope%2FSourisseau2019%2F5ire_C_E.pdb&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2Fzika%2Fmaster%2Fdata%2FEnvelope%2FSourisseau2019%2FSourisseau2019_DMS.csv&condition=rescaled+preferences&site_metric=site_entropy&mutation_metric=mut_pref&selected_sites=R+99%2CG+100%2CW+101%2CG+102%2CN+103%2CG+104%2CC+105%2CG+106%2CL+107%2CF+108%2CG+109%2CQ+147%2CH+148%2CS+149%2CG+150%2CM+151%2CI+152%2CV+153%2CN+154%2CD+155%2CT+156%2CG+157%2CY+158%2CE+159%2CT+160%2CD+161) for a interactive dms-view visualization focusing on the conserved fusion loop and the hypervariable glycan loop. The raw data are [here](./data/Envelope/Sourisseau2019/).
 
 
 ## Adding data sets
